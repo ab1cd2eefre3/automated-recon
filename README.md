@@ -4,3 +4,5 @@ Automated subdomain enumeration using Amass, the commonspeak2 subdomain wordlist
 Usage: python recon.py example.com
 
 Returns a bunch of active subdomains.
+
+Amass and MassDNS installation required.
